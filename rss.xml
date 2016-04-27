@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bananum]]></title>
+        <description><![CDATA[Bananum]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Apr 2016 21:54:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>En Bananum, nos dedicamos a crear conceptos de negocios, donde cambiamos de manera extraordinaria lo ya existente, en cualquier campo.</p>]]></description>
+            <link>undefineden-bananum-nos-dedicamos-a-crear-conceptos-de-negocios-don/index.html</link>
+            <guid isPermaLink="false">ca4e516b-fffd-48af-9faf-a14bf3d030ad</guid>
+            <pubDate>Wed, 27 Apr 2016 21:54:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
