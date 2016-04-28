@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Bananum]]></title>
-        <description><![CDATA[Bananum]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Que hacemos en Bananum]]></title>
+        <description><![CDATA[Que hacemos en Bananum]]></description>
+        <link>https://thegrid.ai/bananum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Apr 2016 21:54:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 03:57:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bananum/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad2e119a-4de1-4a80-9687-d78cccc2a8f3.png">]]></description>
+            <link>https://thegrid.ai/bananum/f1d0c451-1403-4a1f-9791-29f7277ccb69/index.html</link>
+            <guid isPermaLink="false">f1d0c451-1403-4a1f-9791-29f7277ccb69</guid>
+            <pubDate>Thu, 28 Apr 2016 03:56:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>En Bananum, nos dedicamos a crear conceptos de negocios, donde cambiamos de manera extraordinaria lo ya existente, en cualquier campo.</p>]]></description>
-            <link>undefineden-bananum-nos-dedicamos-a-crear-conceptos-de-negocios-don/index.html</link>
+            <link>https://thegrid.ai/bananum/en-bananum-nos-dedicamos-a-crear-conceptos-de-negocios-don/index.html</link>
             <guid isPermaLink="false">ca4e516b-fffd-48af-9faf-a14bf3d030ad</guid>
             <pubDate>Wed, 27 Apr 2016 21:54:29 GMT</pubDate>
         </item>
