@@ -4,8 +4,15 @@
         <description><![CDATA[Que hacemos en Bananum]]></description>
         <link>https://thegrid.ai/bananum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 21:52:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 21:53:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bananum/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Como parte de nuestra filosofía de cuidar el diseño y la funcionalidad en todo lo que nos rodea nuestras oficinas son parte de ese pensamiento.</p>]]></description>
+            <link>https://thegrid.ai/bananum/como-parte-de-nuestra-filosofia-de-cuidar-el-diseno-y-la-fun/index.html</link>
+            <guid isPermaLink="false">e047cb7b-d547-437a-90e3-10b990ed8b57</guid>
+            <pubDate>Mon, 02 May 2016 21:53:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/bccdfd84-21f0-49cc-90f1-28344a52163b.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bananum/fc9e723d-37b8-4d7b-8082-b39493714988/index.html</link>
             <guid isPermaLink="false">fc9e723d-37b8-4d7b-8082-b39493714988</guid>
             <pubDate>Thu, 28 Apr 2016 04:31:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5330ae5a-f7d5-4d7c-95b2-f4c8ac9f7958.png">]]></description>
-            <link>https://thegrid.ai/bananum/751bbe71-8a6d-4a1e-8af0-f1ccd257b7fc/index.html</link>
-            <guid isPermaLink="false">751bbe71-8a6d-4a1e-8af0-f1ccd257b7fc</guid>
-            <pubDate>Thu, 28 Apr 2016 04:29:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
