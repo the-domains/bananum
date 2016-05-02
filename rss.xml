@@ -4,8 +4,15 @@
         <description><![CDATA[Que hacemos en Bananum]]></description>
         <link>https://thegrid.ai/bananum/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 May 2016 21:51:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2016 21:52:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/bananum/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb32cb3e-b4e5-427e-81be-732afdd066ea.jpg">]]></description>
+            <link>https://thegrid.ai/bananum/985b875a-760c-4356-8031-c5068ce668fd/index.html</link>
+            <guid isPermaLink="false">985b875a-760c-4356-8031-c5068ce668fd</guid>
+            <pubDate>Mon, 02 May 2016 21:51:20 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1a5fd533-ac0f-4883-b25d-a7323a917506.jpg">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/bananum/d520dd62-88e2-4480-95e3-bf737738ad44/index.html</link>
             <guid isPermaLink="false">d520dd62-88e2-4480-95e3-bf737738ad44</guid>
             <pubDate>Thu, 28 Apr 2016 04:27:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ad2e119a-4de1-4a80-9687-d78cccc2a8f3.png">]]></description>
-            <link>https://thegrid.ai/bananum/f1d0c451-1403-4a1f-9791-29f7277ccb69/index.html</link>
-            <guid isPermaLink="false">f1d0c451-1403-4a1f-9791-29f7277ccb69</guid>
-            <pubDate>Thu, 28 Apr 2016 03:56:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
