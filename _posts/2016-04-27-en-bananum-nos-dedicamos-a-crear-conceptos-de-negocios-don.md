@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'En Bananum, nos dedicamos a crear conceptos de negocios, donde cambiamos de manera extraordinaria lo ya existente, en cualquier campo.'
-datePublished: '2016-04-27T21:54:29.200Z'
-dateModified: '2016-04-27T21:54:26.347Z'
+datePublished: '2016-05-03T18:57:29.322Z'
+dateModified: '2016-04-28T03:42:07.372Z'
 title: ''
 author: []
 authors: []
@@ -15,9 +15,9 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
 sourcePath: _posts/2016-04-27-en-bananum-nos-dedicamos-a-crear-conceptos-de-negocios-don.md
 published: true
+starred: true
 url: en-bananum-nos-dedicamos-a-crear-conceptos-de-negocios-don/index.html
 _type: Article
 
